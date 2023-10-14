@@ -14,7 +14,9 @@
 		"hediet.vscode-drawio",
 		"aaron-bond.better-comments",
 		"ExodiusStudios.comment-anchors",
-		"ms-azuretools.vscode-docker"
+		"ms-azuretools.vscode-docker",
+    "eamodio.gitlens",
+    "mutantdino.resourcemonitor"
 	]
     }
   },
