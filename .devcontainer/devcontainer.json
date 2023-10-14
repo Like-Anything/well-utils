@@ -1,0 +1,21 @@
+// See https://containers.dev/implementors/json_reference/ for configuration reference
+{
+  "name": "WELL-WHEEL-ENV",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "stylelint.vscode-stylelint",
+        "robertz.code-snapshot",
+        "hediet.vscode-drawio",
+        "aaron-bond.better-comments",
+        "ExodiusStudios.comment-anchors"
+      ]
+    }
+  },
+  "features": {}
+}
