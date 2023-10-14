@@ -8,13 +8,14 @@
     "vscode": {
       "settings": {},
       "extensions": [
-        "dbaeumer.vscode-eslint",
-        "stylelint.vscode-stylelint",
-        "robertz.code-snapshot",
-        "hediet.vscode-drawio",
-        "aaron-bond.better-comments",
-        "ExodiusStudios.comment-anchors"
-      ]
+		"dbaeumer.vscode-eslint",
+		"stylelint.vscode-stylelint",
+		"robertz.code-snapshot",
+		"hediet.vscode-drawio",
+		"aaron-bond.better-comments",
+		"ExodiusStudios.comment-anchors",
+		"ms-azuretools.vscode-docker"
+	]
     }
   },
   "features": {}
